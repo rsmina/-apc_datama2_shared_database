@@ -321,3 +321,9 @@ VALUES
 (3, 2, '92 Independence Alley, El Adelanto'),
 (4, 2, '275 Shopko Junction, Fahmah'),
 (5, 1, '9296 Becker Trail, Taguisa');
+
+CREATE VIEW rsmina.companies_join_view
+AS SELECT rsmina.companies.id, rsmina.companies.name, rsmina.warehouses.location
+FROM rsmina.companies INNER JOIN rsmina.warehouses
+ON (rsmina.companies.id = rsmina.warehouses.company_id)
+ORDER BY rsmina.companies.id;
