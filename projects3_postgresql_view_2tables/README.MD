@@ -1,6 +1,8 @@
 <h1> PostgreSQL Views Migrate to shared APC Server </h1>
 
 [Create View](#create-view)
+
+[View Table](#view-table)
  
 [Companies Table](#companies)
  
@@ -11,6 +13,11 @@
 # Screenshots
 <h3 id="create-view">Create View</h3>
 <img src="create_view.JPG" alt="Create View" />
+
+<br />
+
+<h3 id="view-table">View Table</h3>
+<img src="view_table.JPG" alt="View Table" />
 
 <br />
 
