@@ -8,6 +8,8 @@
  
 [Warehouses Table](#warehouses)
 
+[ER Diagram](#er-diagram)
+
 [Postgres_rsmina.sql file](https://github.com/rsmina/-apc_datama2_shared_database/blob/master/projects3_postgresql_view_2tables/postgres_rsmina.sql)
 
 # Screenshots
@@ -28,5 +30,10 @@
 
 <h3 id="warehouses">Warehouses Table</h3>
 <img src="warehouses.JPG" alt="Warehouses" />
+
+<br />
+
+<h3 id="er-diagram">ER Diagram</h3>
+<img src="er_diagram.JPG" alt="er-diagram" />
 
 [Postgres_rsmina.sql file](https://github.com/rsmina/-apc_datama2_shared_database/blob/master/projects3_postgresql_view_2tables/postgres_rsmina.sql)
